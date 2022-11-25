@@ -6,7 +6,7 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
   
   <br>
-  <h2 align="center">Jumping Square ( Zıplayan Kare )</h2>
+  <h2 align="center">Jumping Square</h2>
 
   Bu projede kendiliğinden Zıplayan ve belirli bir döngüye sahip animasyonlu bir Zıplayan Kare Uygulaması oluşturdum. Proje sadece **HTML5**, **CSS3** kullanılarak oluşturulmuştur.
 
